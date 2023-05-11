@@ -3,7 +3,7 @@
 - 🔭 Estou começando a Faculdade de Ciencia de Dados
 - 🌱 Estudando Front-end
 - 😄 Pronouns: Ele/Dele
-- 
+
  <div>
   <a href="https://github.com/Carlimmsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlimmsantos&show_icons=true&theme=tokyonight"/>
