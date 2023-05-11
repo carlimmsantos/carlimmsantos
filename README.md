@@ -1,7 +1,7 @@
 ### Olá sou Carlos Santos
 
 - 🔭 Estou começando a Faculdade de Ciencia de Dados
-- 🌱 Estudando Front-end
+- 🌱 Estudando Frontend
 - 😄 Pronouns: Ele/Dele
 
  <div>
