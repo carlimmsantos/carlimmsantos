@@ -1,6 +1,6 @@
 ### Olá sou Carlos Santos
 
-- 🔭 Estou começando a Faculdade de Ciencia de Dados
+- 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
 - 🌱 Estudando Frontend
 - 😄 Pronouns: Ele/Dele
 
