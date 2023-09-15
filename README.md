@@ -2,7 +2,6 @@
 
 - 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
 - 🌱 Estudando Frontend
-- 😄 Pronouns: Ele/Dele
 
  <div>
   <a href="https://github.com/Carlimmsantos">
