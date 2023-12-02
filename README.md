@@ -1,7 +1,8 @@
 ### Olá sou Carlos Santos
 
 - 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
-- 🌱 Estudando Python
+- 🌱 Estudando C e Python
+- 👨‍💻 Experiência com Python, Java, HTML e CSS
 
  <div>
   <a href="https://github.com/Carlimmsantos">
