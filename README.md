@@ -2,7 +2,7 @@
 - 📚 Tec. em Informatica - IFPE
 - 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
 - 🌱 Estudando C e Python
-- 👨‍💻 Experiência com Python, Java, HTML e CSS
+- 👨‍💻 Experiência com Python, C, Java, HTML e CSS
 
  <div>
   <br>
@@ -17,6 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+   <img align="center" alt="C" height="30" width="40" src="https://www.gratispng.com/png-4udhf0/download.html">
 </div>
  
 <div><br> 
