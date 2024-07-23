@@ -1,8 +1,8 @@
 ### Olá sou Carlos Santos
 - 📚 Tec. em Informatica - IFPE
 - 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
-- 🌱 Estudando Ciencia de dados
-- 👨‍💻 Experiência com Python, C, Java, HTML e CSS
+- 🌱 Estudando C++
+- 👨‍💻 Experiência com Python, Analise de Dados, C, Java, HTML e CSS
 
 
  
