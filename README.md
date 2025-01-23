@@ -15,9 +15,6 @@
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
-
-<img src="https://raw.githubusercontent.com/carlimmsantos/carlimmsantos/output/snake.svg" alt="Snake animation" />
-
  
 <div><br> 
   <a href="https://instagram.com/carlosfreitss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
