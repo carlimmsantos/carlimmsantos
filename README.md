@@ -1,20 +1,104 @@
-### Olá sou Carlos Santos
-- 📚 Tec. em Informatica - IFPE
-- 🔭 Estudante da UFPB - Ciência de Dados e Inteligência Artificial
-- 🌱 Estudando C++
-- 👨‍💻 Experiência com Python, Analise de Dados, C, Java, HTML e CSS
+# 👩🏻‍💻 Carlos Santos
+
+💡 Sou estudante de Ciência de Dados e Inteligência Artificial na UFPB e Técnico em Informática pelo IFPE. Sempre busco desafios que me permitam crescer e criar soluções impactantes.
+
+🔥 Tenho experiência em Python, Análise de Dados, C, C++, Java, HTML, CSS, React e React Native. Atualmente, estou aprofundando meus conhecimentos em APIs do Python, como Pandas e outras bibliotecas para manipulação e análise de dados.
+
+💻 Minha jornada envolve desde o desenvolvimento de aplicações full stack até a exploração de dados para insights estratégicos. Gosto de resolver problemas complexos e trabalhar em projetos inovadores.
+
+🎯 Aprender, criar e evoluir são meus principais objetivos. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento.
+
+📈 Vamos trocar ideias? Conecte-se comigo e bora construir o futuro juntos! 🚀✨
+
+---
+
+### 🤖 Linguagens e Tecnologias
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 
- 
-  <br>
-  <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-</div>
+
+<br/>
+<br/>
  
 <div><br> 
   <a href="https://instagram.com/carlosfreitss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
