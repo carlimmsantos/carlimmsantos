@@ -11,6 +11,7 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<div>
   <img 
     align="left" 
     alt="HTML"
@@ -75,6 +76,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img align="left" 
+  alt="wes-Postgresql"
+  title="Postgresql"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img 
     align="left" 
     alt="Java" 
@@ -93,9 +100,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+</div>
+<br>
 
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlimmsantos&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
+##
+
 <br/>
  
 <div><br> 
