@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Carlos Santos
+# 👨🏻‍💻 Carlos Santos
 
 💡 Estudante de Ciência de Dados e Inteligência Artificial na UFPB e Técnico em Informática pelo IFPE, estou sempre em busca de desafios que me ajudem a crescer e criar soluções impactantes.
 
