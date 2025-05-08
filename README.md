@@ -1,13 +1,11 @@
-# 👨🏻‍💻 Carlos Santos
+#👨🏻‍💻 Carlos Santos
+💡 Estudante de Ciência de Dados e Inteligência Artificial na UFPB, com formação técnica em Informática pelo IFPE. Tenho paixão por explorar dados e desenvolver soluções baseadas em evidências que gerem impacto real.
 
-💡 Estudante de Ciência de Dados e Inteligência Artificial na UFPB e Técnico em Informática pelo IFPE, estou sempre em busca de desafios que me ajudem a crescer e criar soluções impactantes.
+📊 Possuo experiência em Python, análise e visualização de dados, modelagem estatística e machine learning. Trabalho com ferramentas como Pandas, Power BI, Scikit-learn, além de conhecimentos em C, Java, C++, HTML/CSS, React e React Native. Atualmente, aprofundo meu domínio em APIs com Django e Django Ninja, integrando back-end a aplicações analíticas.
 
-🔥 Tenho experiência em Python, Análise de Dados, C, Java, C++, HTML, CSS, React e React Native. Atualmente, estou aprofundando meus conhecimentos em APIs com Python, explorando frameworks como Django e Django Ninja, além de continuar evoluindo no desenvolvimento Full Stack.
+🧠 Meu foco está em transformar dados brutos em decisões inteligentes. Gosto de resolver problemas complexos com métodos quantitativos, aplicar IA em contextos reais e comunicar descobertas de forma clara e visual.
 
-🎯 Gosto de resolver problemas complexos, transformar dados em insights e criar aplicações eficientes. Meu objetivo é sempre aprender, inovar e colaborar em projetos que façam a diferença.
-
-📈 Vamos trocar ideias? Conecte-se comigo e bora construir o futuro juntos! 🚀✨
-
+🚀 Sempre em busca de novos aprendizados e colaborações que ampliem meu impacto como cientista de dados. Vamos conversar?
 ---
 
 ### 🤖 Linguagens e Tecnologias
