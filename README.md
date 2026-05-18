@@ -1,15 +1,75 @@
-# 👨🏻‍💻 Carlos Santos
-💡 Estudante de Ciência de Dados e Inteligência Artificial na UFPB, com formação técnica em Informática pelo IFPE. Tenho paixão por explorar dados e desenvolver soluções baseadas em evidências que gerem impacto real.
+<div align="center">
+  <h1>Hi there, I'm Carlos Vitor! 👋</h1>
+</div>
 
-📊 Possuo experiência em Python, análise e visualização de dados, modelagem estatística e machine learning. Trabalho com ferramentas como Pandas, Power BI, além de conhecimentos em C, Java, C++, HTML/CSS, React e React Native. Atualmente, aprofundo meu domínio em APIs com Django e Django Ninja, integrando back-end a aplicações analíticas.
+### About Me
 
-🧠 Meu foco está em transformar dados brutos em decisões inteligentes. Gosto de resolver problemas complexos com métodos quantitativos, aplicar IA em contextos reais e comunicar descobertas de forma clara e visual.
-
-🚀 Sempre em busca de novos aprendizados e colaborações que ampliem meu impacto como cientista de dados. Vamos conversar?
+- 👨🏽‍🎓 I'm a Data Science and Artificial Intelligence undergraduate at the Federal University of Paraíba (UFPB), Brazil.
+- 👔 I am a Back-end Developer and Researcher at LAVID, working on governmental platforms for micro-entrepreneurs.
+- 👍 I'm an AI and HCI enthusiast, deeply involved in academic communities and leadership.
+- 💻 I’m currently working on a project to assist and mentor trainees, while also managing operations and organization as the President of CortechX.
+- 🌱 I’m currently exploring AI Models, Data Engineering, LLMs, and RAG.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Experience
+
+<details open>
+<summary>Back-end Developer & Researcher</summary>
+<br>
+<a href="https://gitlab.lavid.ufpb.br/uploads/-/system/appearance/logo/1/logo-lavid.png" target="_blank">
+  <img align="left" src="https://github.com/user-attachments/assets/f3d0cfb0-42e6-48a1-b332-9b18aabccd13" alt="LAVID Logo" width="80" style="margin-right: 15px;">
+</a>
+LAVID (UFPB) • Research Project<br>
+Technologies: Python, Django, Django REST Framework<br>
+Projects:<br>
+- Gomei
+<br clear="left">
+</details>
+
+<details open>
+<summary>Data Researcher</summary>
+<br>
+<a href="https://github.com/user-attachments/assets/8be0fcdd-cda7-4075-b3dc-42ae6f4a77d2" target="_blank">
+  <img align="left" src="https://github.com/user-attachments/assets/8be0fcdd-cda7-4075-b3dc-42ae6f4a77d2" alt="Logo" width="80" style="margin-right: 15px;">
+</a>
+UFPB & Civil Police of Pernambuco • Partnership<br>
+Technologies: Python, Machine Learning, Data Analysis<br>
+Projects:<br>
+- Predictive Policing Insights
+<br clear="left">
+</details>
+
+<details open>
+<summary>Team Leader & Sports Analytics Researcher</summary>
+<br>
+<a href="https://github.com/user-attachments/assets/805559d7-06bc-4dae-8b10-b83653c00ae7" target="_blank">
+  <img align="left" src="https://github.com/user-attachments/assets/805559d7-06bc-4dae-8b10-b83653c00ae7" alt="TAIL Logo" width="80" style="margin-right: 15px;">
+</a>
+TAIL — Technology and Artificial Intelligence League<br>
+Technologies: Python, Scikit-learn, Data Scraping<br>
+Projects:<br>
+- Football Player Recommendation System (FBref Data)
+<br clear="left">
+</details>
+
+<details open>
+<summary>President & Founder</summary>
+<br>
+<a href="https://github.com/user-attachments/assets/28d506e2-ccdc-4650-90dd-dc0c3d99da05" target="_blank">
+  <img align="left" src="https://github.com/user-attachments/assets/28d506e2-ccdc-4650-90dd-dc0c3d99da05" alt="CortechX Logo" width="80" style="margin-right: 15px;">
+</a>
+CortechX — Human-Computer Interaction Academic League<br>
+Technologies: Leadership, Event Organization, Team Management<br>
+Projects:<br>
+- Agendar
+- Leadshot
+<br clear="left">
+</details>
+
+---
+
+### Linguagens e Tecnologias
 <div>
   <img 
     align="left" 
