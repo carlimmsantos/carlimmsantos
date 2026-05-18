@@ -49,7 +49,7 @@ Projects:<br>
 TAIL — Technology and Artificial Intelligence League<br>
 Technologies: Python, Scikit-learn, Data Scraping<br>
 Projects:<br>
-- Football Player Recommendation System (FBref Data)
+- Football Player Recommendation System (FBref Data), Trainee
 <br clear="left">
 </details>
 
@@ -62,8 +62,7 @@ Projects:<br>
 CortechX — Human-Computer Interaction Academic League<br>
 Technologies: Leadership, Event Organization, Team Management<br>
 Projects:<br>
-- Agendar
-- Leadshot
+- Agendar, Leadshot, Trainee
 <br clear="left">
 </details>
 
